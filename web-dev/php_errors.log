@@ -1,0 +1,1 @@
+[02-Nov-2015 19:23:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/web-dev/chapter01/freight.php on line 15

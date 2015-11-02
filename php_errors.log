@@ -1,0 +1,2 @@
+[02-Nov-2015 18:29:18 UTC] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/web-dev/processorder.php on line 8
+[02-Nov-2015 19:01:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/web-dev/processorder.php on line 20
